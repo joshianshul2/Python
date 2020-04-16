@@ -1,0 +1,6 @@
+f=open("name.txt",'a')
+f.write("Durga\n")
+f.write("Soft\n")
+f.write("Hydrabad\n")
+f.write("Jai Ho")
+f.close()

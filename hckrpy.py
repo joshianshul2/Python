@@ -1,0 +1,6 @@
+a=input()
+print(a.isalnum())
+print(a.isalpha())
+print(a.isdigit())
+print(a.isupper())
+print(a.islower())

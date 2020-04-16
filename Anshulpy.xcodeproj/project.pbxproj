@@ -1,0 +1,406 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		DD0284EB233F54900033E581 /* pygame1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = pygame1.py; sourceTree = "<group>"; };
+		DD051FDA231FFBCA00E356C3 /* rndno.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = rndno.py; sourceTree = "<group>"; };
+		DD081D23231AEDD900044860 /* hckrpy.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hckrpy.py; sourceTree = "<group>"; };
+		DD081D24231AF72800044860 /* inputinlst.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = inputinlst.py; sourceTree = "<group>"; };
+		DD081D25231AFA4100044860 /* min.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = min.py; sourceTree = "<group>"; };
+		DD0B35102316E6A300117645 /* test301.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test301.py; sourceTree = "<group>"; };
+		DD0B35112316EA3F00117645 /* test302.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test302.py; sourceTree = "<group>"; };
+		DD0B35122316EB4F00117645 /* test303.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test303.py; sourceTree = "<group>"; };
+		DD0B351323172C2200117645 /* hckrarr1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hckrarr1.py; sourceTree = "<group>"; };
+		DD0B35142317433A00117645 /* test304.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test304.py; sourceTree = "<group>"; };
+		DD0B407023112C5C002C0B64 /* listintro1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = listintro1.py; sourceTree = "<group>"; };
+		DD0B407123112F81002C0B64 /* test101.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test101.py; sourceTree = "<group>"; };
+		DD0B407223113CED002C0B64 /* test102.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test102.py; sourceTree = "<group>"; };
+		DD0B407323114807002C0B64 /* substringmatch.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = substringmatch.py; sourceTree = "<group>"; };
+		DD0B51922311DFE9007E3A0D /* arrrev.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = arrrev.py; sourceTree = "<group>"; };
+		DD10F3222347A976009E2E9A /* aj1.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = aj1.html; sourceTree = "<group>"; };
+		DD1EEAB522F1FC26003F5717 /* forintrolst.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = forintrolst.py; sourceTree = "<group>"; };
+		DD2368992301C96200302638 /* iteratemtd.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = iteratemtd.py; sourceTree = "<group>"; };
+		DD31907122D46AD80014EDC0 /* except3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = except3.py; sourceTree = "<group>"; };
+		DD31907222D46B390014EDC0 /* except4mandf.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = except4mandf.py; sourceTree = "<group>"; };
+		DD31907322D46F560014EDC0 /* except5withouttry.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = except5withouttry.py; sourceTree = "<group>"; };
+		DD33220B230943F7006CDA02 /* writeintro1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = writeintro1.py; sourceTree = "<group>"; };
+		DD348673231D71C500E721C1 /* dicintro1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = dicintro1.py; sourceTree = "<group>"; };
+		DD348674231D8E7E00E721C1 /* dicintro2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = dicintro2.py; sourceTree = "<group>"; };
+		DD348675231D935C00E721C1 /* test601.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test601.py; sourceTree = "<group>"; };
+		DD34B01122D23FFB006E911A /* classintro2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = classintro2.py; sourceTree = "<group>"; };
+		DD34B01222D24214006E911A /* classintro3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = classintro3.py; sourceTree = "<group>"; };
+		DD34B01322D245D7006E911A /* inher1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = inher1.py; sourceTree = "<group>"; };
+		DD34B01422D24B4B006E911A /* inher2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = inher2.py; sourceTree = "<group>"; };
+		DD34B01522D24C35006E911A /* leapyr.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = leapyr.py; sourceTree = "<group>"; };
+		DD34B01622D265C1006E911A /* areaofpoly.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = areaofpoly.py; sourceTree = "<group>"; };
+		DD380686230C6C0F00CD4F50 /* hckr2sallu.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hckr2sallu.py; sourceTree = "<group>"; };
+		DD4047D12317C08400B2742C /* test305.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test305.py; sourceTree = "<group>"; };
+		DD4073942311A947003769B5 /* war1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = war1.py; sourceTree = "<group>"; };
+		DD4073952311BB54003769B5 /* test103.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test103.py; sourceTree = "<group>"; };
+		DD4073972311CBC7003769B5 /* arrayfac.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = arrayfac.py; sourceTree = "<group>"; };
+		DD4073982311D0CA003769B5 /* arrsum.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = arrsum.py; sourceTree = "<group>"; };
+		DD45F9F9232915FF00ABC06D /* itertoolintro1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = itertoolintro1.py; sourceTree = "<group>"; };
+		DD45F9FA2329304D00ABC06D /* iterproduct.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = iterproduct.py; sourceTree = "<group>"; };
+		DD45F9FB23293ACA00ABC06D /* iterper.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = iterper.py; sourceTree = "<group>"; };
+		DD45F9FC232941E100ABC06D /* itercmbeithrec.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = itercmbeithrec.py; sourceTree = "<group>"; };
+		DD45F9FD232941F500ABC06D /* itercom.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = itercom.py; sourceTree = "<group>"; };
+		DD45F9FE232965B300ABC06D /* hckr201.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hckr201.py; sourceTree = "<group>"; };
+		DD5003C222DC16D500FBCB35 /* nitk.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = nitk.py; sourceTree = "<group>"; };
+		DD5A08DD2354B7C600E5F041 /* welcome.php */ = {isa = PBXFileReference; lastKnownFileType = text.script.php; path = welcome.php; sourceTree = "<group>"; };
+		DD5F38C122D864D5000573BC /* sorting.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = sorting.py; sourceTree = "<group>"; };
+		DD5FFCA622E181A5005B9E80 /* test1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test1.py; sourceTree = "<group>"; };
+		DD68F2E0230A5DA40021160A /* formfile1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = formfile1.py; sourceTree = "<group>"; };
+		DD6DE547230C7A59003D0B24 /* hckr2gcd.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hckr2gcd.py; sourceTree = "<group>"; };
+		DD6F9C1A230891EF00975877 /* fileintro1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = fileintro1.py; sourceTree = "<group>"; };
+		DD6F9C1B2308933D00975877 /* fileintro2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = fileintro2.py; sourceTree = "<group>"; };
+		DD6F9C1C2308937400975877 /* fileintro3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = fileintro3.py; sourceTree = "<group>"; };
+		DD6F9C1D230893C300975877 /* fileintro4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = fileintro4.py; sourceTree = "<group>"; };
+		DD75247E22ED749A008A889B /* rnd1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = rnd1.py; sourceTree = "<group>"; };
+		DD76D304230B08A000D8CCF6 /* hcker1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hcker1.py; sourceTree = "<group>"; };
+		DD77B115232296B70022AA38 /* game1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = game1.py; sourceTree = "<group>"; };
+		DD77B116232299DC0022AA38 /* game2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = game2.py; sourceTree = "<group>"; };
+		DD77B11723229C100022AA38 /* test801.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test801.py; sourceTree = "<group>"; };
+		DD77B11823229FC00022AA38 /* game3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = game3.py; sourceTree = "<group>"; };
+		DD77B1192322B1400022AA38 /* name.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = name.txt; sourceTree = "<group>"; };
+		DD77B11A2322B16A0022AA38 /* gametxt.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = gametxt.py; sourceTree = "<group>"; };
+		DD77B11B2322C3DB0022AA38 /* Revbynumpy.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Revbynumpy.py; sourceTree = "<group>"; };
+		DD77B11C2322CC620022AA38 /* flipudintro.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = flipudintro.py; sourceTree = "<group>"; };
+		DD77B11D2322D0900022AA38 /* test803.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test803.py; sourceTree = "<group>"; };
+		DD79BD9422CFAFEB00646B57 /* fact.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = fact.py; sourceTree = "<group>"; };
+		DD79BD9522CFB47B00646B57 /* per.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = per.py; sourceTree = "<group>"; };
+		DD79BD9622CFB87300646B57 /* rev.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = rev.py; sourceTree = "<group>"; };
+		DD79BD9722CFBC7F00646B57 /* armstrong.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = armstrong.py; sourceTree = "<group>"; };
+		DD79BD9822CFC09E00646B57 /* palli.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = palli.py; sourceTree = "<group>"; };
+		DD79BD9922CFC10600646B57 /* swap.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = swap.py; sourceTree = "<group>"; };
+		DD79BD9A22CFC21300646B57 /* ascii.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = ascii.py; sourceTree = "<group>"; };
+		DD79BD9B22CFC4C100646B57 /* greaterbtw2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = greaterbtw2.py; sourceTree = "<group>"; };
+		DD79BD9C22CFC62C00646B57 /* grt3no.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = grt3no.py; sourceTree = "<group>"; };
+		DD79BD9D22CFC73B00646B57 /* add,sub,mul,div.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "add,sub,mul,div.py"; sourceTree = "<group>"; };
+		DD79BD9E22CFC80000646B57 /* print1-10.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "print1-10.py"; sourceTree = "<group>"; };
+		DD81A86C22F8121A00B6B47F /* forintro2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = forintro2.py; sourceTree = "<group>"; };
+		DD81A86D22F8167800B6B47F /* forintro3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = forintro3.py; sourceTree = "<group>"; };
+		DD843259232E34380096DBA4 /* test1011.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test1011.py; sourceTree = "<group>"; };
+		DD8695FA23008543007CC65F /* harshbdy.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = harshbdy.py; sourceTree = "<group>"; };
+		DD8695FB23008E49007CC65F /* demopic.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = demopic.py; sourceTree = "<group>"; };
+		DD86C22522D3B08E001EA83B /* heartptrn.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = heartptrn.py; sourceTree = "<group>"; };
+		DD86C22622D3B3FF001EA83B /* hello.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hello.py; sourceTree = "<group>"; };
+		DD87415A230EBF2400BF75E9 /* frame1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = frame1.py; sourceTree = "<group>"; };
+		DD893672230A87E200BDB652 /* Imgprint.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Imgprint.py; sourceTree = "<group>"; };
+		DD893673230A89D000BDB652 /* formimg.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = formimg.py; sourceTree = "<group>"; };
+		DD893675230A8CD700BDB652 /* Tkintro1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Tkintro1.py; sourceTree = "<group>"; };
+		DD893676230A8D9300BDB652 /* tkinterintro2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tkinterintro2.py; sourceTree = "<group>"; };
+		DD8938F3232FF4B80033F3E3 /* hckrtry.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hckrtry.py; sourceTree = "<group>"; };
+		DD8A6DC423159C0F0039E2BB /* hckrvalid.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hckrvalid.py; sourceTree = "<group>"; };
+		DD8A6DC52315A0A50039E2BB /* test201.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test201.py; sourceTree = "<group>"; };
+		DD8E529F22E415C900BDFA1F /* pattern5.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = pattern5.py; sourceTree = "<group>"; };
+		DD8E52A022E41E0100BDFA1F /* pattern6.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = pattern6.py; sourceTree = "<group>"; };
+		DD8E52A122E4203A00BDFA1F /* pattern7.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = pattern7.py; sourceTree = "<group>"; };
+		DD8E52A222E4208700BDFA1F /* pattern8.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = pattern8.py; sourceTree = "<group>"; };
+		DD8E52A322E420B100BDFA1F /* pattern9.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = pattern9.py; sourceTree = "<group>"; };
+		DD943897232AB5B00051E4CB /* textwrap.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = textwrap.py; sourceTree = "<group>"; };
+		DD943898232AC2200051E4CB /* hckrtextwrap.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hckrtextwrap.py; sourceTree = "<group>"; };
+		DD96CC67230ECE2B005A948E /* button.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = button.py; sourceTree = "<group>"; };
+		DD96E78023145FAF00C6AFE0 /* hckerseries.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hckerseries.py; sourceTree = "<group>"; };
+		DDA35834230DAD6900A90887 /* hckr3tri.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hckr3tri.py; sourceTree = "<group>"; };
+		DDA3AA56230C061A00B6C9B4 /* sizeof.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = sizeof.py; sourceTree = "<group>"; };
+		DDA4A89C231CE72600396D2D /* test501.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test501.py; sourceTree = "<group>"; };
+		DDA5F4FD2333FDB9004028DD /* collectiondque.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = collectiondque.py; sourceTree = "<group>"; };
+		DDAD29E8230987E9008B7D7F /* writelineintro.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = writelineintro.py; sourceTree = "<group>"; };
+		DDAD29E9230989EA008B7D7F /* readintro.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = readintro.py; sourceTree = "<group>"; };
+		DDAD29EA23098B3A008B7D7F /* readlineintro.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = readlineintro.py; sourceTree = "<group>"; };
+		DDAD29EB23098CBB008B7D7F /* readlinesintro2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = readlinesintro2.py; sourceTree = "<group>"; };
+		DDAD29EC2309951C008B7D7F /* copyonetoanotherfile.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = copyonetoanotherfile.py; sourceTree = "<group>"; };
+		DDAD29ED23099742008B7D7F /* withfile.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = withfile.py; sourceTree = "<group>"; };
+		DDAD29EE230998C9008B7D7F /* withfile2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = withfile2.py; sourceTree = "<group>"; };
+		DDAD29EF2309A9BE008B7D7F /* ter1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = ter1.py; sourceTree = "<group>"; };
+		DDAD29F02309AA76008B7D7F /* ter2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = ter2.py; sourceTree = "<group>"; };
+		DDAD43F122E1E59B00E3B1A1 /* test2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test2.py; sourceTree = "<group>"; };
+		DDBB85DA2322F7C100A56AFA /* floorceilandrint.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = floorceilandrint.py; sourceTree = "<group>"; };
+		DDBB85DB2322FA5400A56AFA /* dotnumpy.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = dotnumpy.py; sourceTree = "<group>"; };
+		DDC740DE230D88A2002890EA /* strconversion1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = strconversion1.py; sourceTree = "<group>"; };
+		DDC740DF230D8F42002890EA /* struprtolprfun.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = struprtolprfun.py; sourceTree = "<group>"; };
+		DDC740E0230D90A4002890EA /* uprtolprmid.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = uprtolprmid.py; sourceTree = "<group>"; };
+		DDC740E1230D98BA002890EA /* uprtolpr.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = uprtolpr.py; sourceTree = "<group>"; };
+		DDCB4FED232C35C9001A506B /* sat1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = sat1.py; sourceTree = "<group>"; };
+		DDCB4FEE232C4389001A506B /* sat2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = sat2.py; sourceTree = "<group>"; };
+		DDCB4FEF232C487E001A506B /* sat3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = sat3.py; sourceTree = "<group>"; };
+		DDCB4FF0232C49CD001A506B /* sat4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = sat4.py; sourceTree = "<group>"; };
+		DDCB4FF1232C55CB001A506B /* sat5.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = sat5.py; sourceTree = "<group>"; };
+		DDD4DF0F22E35A1A00C0787E /* pattern1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = pattern1.py; sourceTree = "<group>"; };
+		DDD4DF1022E35C9A00C0787E /* forfmt.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = forfmt.py; sourceTree = "<group>"; };
+		DDD4DF1122E3628800C0787E /* pattern2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = pattern2.py; sourceTree = "<group>"; };
+		DDD4DF1222E3643400C0787E /* pattern3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = pattern3.py; sourceTree = "<group>"; };
+		DDD4DF1322E364F100C0787E /* pattern4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = pattern4.py; sourceTree = "<group>"; };
+		DDD948BD238704F6004F832D /* prmswp.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = prmswp.py; sourceTree = "<group>"; };
+		DDDA166C2321875500089B6E /* ptrnin2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = ptrnin2.py; sourceTree = "<group>"; };
+		DDDA166D23218B8800089B6E /* test701.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test701.py; sourceTree = "<group>"; };
+		DDDA166E2321A2BC00089B6E /* hckrprintbinocthex.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hckrprintbinocthex.py; sourceTree = "<group>"; };
+		DDDA166F2321AF0000089B6E /* test702.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test702.py; sourceTree = "<group>"; };
+		DDDA16702321C09600089B6E /* test703.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test703.py; sourceTree = "<group>"; };
+		DDDBAE9A234E026A005FE319 /* tymps.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tymps.py; sourceTree = "<group>"; };
+		DDE0357D22F9D08000E45CBB /* exceptnest.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = exceptnest.py; sourceTree = "<group>"; };
+		DDE0357E22F9D22000E45CBB /* exceptraise1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = exceptraise1.py; sourceTree = "<group>"; };
+		DDE33B0A230C8478007B0B36 /* Modulus.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Modulus.py; sourceTree = "<group>"; };
+		DDE7E9EA23070E0400E66A0F /* prj1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = prj1.py; sourceTree = "<group>"; };
+		DDE7E9EB23070FCD00E66A0F /* prj2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = prj2.py; sourceTree = "<group>"; };
+		DDE8817E2319770A00D270C8 /* test401.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test401.py; sourceTree = "<group>"; };
+		DDE8817F2319900C00D270C8 /* test402.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test402.py; sourceTree = "<group>"; };
+		DDE8818023199AEE00D270C8 /* convnotoform.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = convnotoform.py; sourceTree = "<group>"; };
+		DDEC38D422D27904007CC409 /* excep1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = excep1.py; sourceTree = "<group>"; };
+		DDEC38D522D27A4B007CC409 /* except2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = except2.py; sourceTree = "<group>"; };
+		DDECA9142301443D0005289E /* classintroedx.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = classintroedx.py; sourceTree = "<group>"; };
+		DDEE5F3B2326B197002CA471 /* proj1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = proj1.py; sourceTree = "<group>"; };
+		DDEE5F3C2326B2A4002CA471 /* gencodes.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = gencodes.txt; sourceTree = "<group>"; };
+		DDEE5F3D2326B3F2002CA471 /* setintro1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = setintro1.py; sourceTree = "<group>"; };
+		DDEE5F3E2326BD31002CA471 /* setintro2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = setintro2.py; sourceTree = "<group>"; };
+		DDEE5F3F2326CB3C002CA471 /* union.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = union.py; sourceTree = "<group>"; };
+		DDEE5F402326CC46002CA471 /* intersectino.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = intersectino.py; sourceTree = "<group>"; };
+		DDEE5F412326CD20002CA471 /* diffinset.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = diffinset.py; sourceTree = "<group>"; };
+		DDEE5F422326CDF8002CA471 /* symdiffinset.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = symdiffinset.py; sourceTree = "<group>"; };
+		DDEE5F432326DABE002CA471 /* test901.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test901.py; sourceTree = "<group>"; };
+		DDEE5F442326DF35002CA471 /* Setintro110.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Setintro110.py; sourceTree = "<group>"; };
+		DDEE5F452326E47D002CA471 /* test902.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test902.py; sourceTree = "<group>"; };
+		DDEE5F462326F3D3002CA471 /* test1010.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test1010.py; sourceTree = "<group>"; };
+		DDEE5F472326F87D002CA471 /* eval.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = eval.py; sourceTree = "<group>"; };
+		DDEE5F482326FD46002CA471 /* caseuprtolwr.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = caseuprtolwr.py; sourceTree = "<group>"; };
+		DDEE5F4923270003002CA471 /* capitilise.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = capitilise.py; sourceTree = "<group>"; };
+		DDF1E92522D0958A008C677E /* classintro1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = classintro1.py; sourceTree = "<group>"; };
+		DDF955BD232EEB3800572C9E /* rexsplit.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = rexsplit.py; sourceTree = "<group>"; };
+		DDF9B92322E5932F0031F309 /* pass.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = pass.py; sourceTree = "<group>"; };
+		DDFCE2F522D5BA9D003A222C /* dob.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = dob.py; sourceTree = "<group>"; };
+		DDFD258C233E795D00AAF5B7 /* ptrnhckr1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = ptrnhckr1.py; sourceTree = "<group>"; };
+		DDFF25EC232245F200528870 /* reuce.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = reuce.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		DD79BD8D22CFAFCE00646B57 = {
+			isa = PBXGroup;
+			children = (
+				DD79BD9D22CFC73B00646B57 /* add,sub,mul,div.py */,
+				DD34B01622D265C1006E911A /* areaofpoly.py */,
+				DD79BD9722CFBC7F00646B57 /* armstrong.py */,
+				DD4073972311CBC7003769B5 /* arrayfac.py */,
+				DDDBAE9A234E026A005FE319 /* tymps.py */,
+				DD0B51922311DFE9007E3A0D /* arrrev.py */,
+				DD4073982311D0CA003769B5 /* arrsum.py */,
+				DD79BD9A22CFC21300646B57 /* ascii.py */,
+				DD45F9F9232915FF00ABC06D /* itertoolintro1.py */,
+				DD45F9FA2329304D00ABC06D /* iterproduct.py */,
+				DD45F9FB23293ACA00ABC06D /* iterper.py */,
+				DD45F9FE232965B300ABC06D /* hckr201.py */,
+				DD943897232AB5B00051E4CB /* textwrap.py */,
+				DD943898232AC2200051E4CB /* hckrtextwrap.py */,
+				DD45F9FC232941E100ABC06D /* itercmbeithrec.py */,
+				DD45F9FD232941F500ABC06D /* itercom.py */,
+				DD96CC67230ECE2B005A948E /* button.py */,
+				DDF1E92522D0958A008C677E /* classintro1.py */,
+				DD34B01122D23FFB006E911A /* classintro2.py */,
+				DD34B01222D24214006E911A /* classintro3.py */,
+				DDECA9142301443D0005289E /* classintroedx.py */,
+				DDE8818023199AEE00D270C8 /* convnotoform.py */,
+				DDAD29EC2309951C008B7D7F /* copyonetoanotherfile.py */,
+				DD8695FB23008E49007CC65F /* demopic.py */,
+				DD348673231D71C500E721C1 /* dicintro1.py */,
+				DDCB4FED232C35C9001A506B /* sat1.py */,
+				DDCB4FEE232C4389001A506B /* sat2.py */,
+				DDCB4FEF232C487E001A506B /* sat3.py */,
+				DD348674231D8E7E00E721C1 /* dicintro2.py */,
+				DDFCE2F522D5BA9D003A222C /* dob.py */,
+				DDEC38D422D27904007CC409 /* excep1.py */,
+				DDEC38D522D27A4B007CC409 /* except2.py */,
+				DD31907122D46AD80014EDC0 /* except3.py */,
+				DD31907222D46B390014EDC0 /* except4mandf.py */,
+				DD31907322D46F560014EDC0 /* except5withouttry.py */,
+				DDE0357D22F9D08000E45CBB /* exceptnest.py */,
+				DDE0357E22F9D22000E45CBB /* exceptraise1.py */,
+				DD79BD9422CFAFEB00646B57 /* fact.py */,
+				DD6F9C1A230891EF00975877 /* fileintro1.py */,
+				DD6F9C1B2308933D00975877 /* fileintro2.py */,
+				DD6F9C1C2308937400975877 /* fileintro3.py */,
+				DD6F9C1D230893C300975877 /* fileintro4.py */,
+				DD77B11C2322CC620022AA38 /* flipudintro.py */,
+				DDD4DF1022E35C9A00C0787E /* forfmt.py */,
+				DD81A86C22F8121A00B6B47F /* forintro2.py */,
+				DD81A86D22F8167800B6B47F /* forintro3.py */,
+				DD1EEAB522F1FC26003F5717 /* forintrolst.py */,
+				DD68F2E0230A5DA40021160A /* formfile1.py */,
+				DD893673230A89D000BDB652 /* formimg.py */,
+				DD87415A230EBF2400BF75E9 /* frame1.py */,
+				DD77B115232296B70022AA38 /* game1.py */,
+				DD77B116232299DC0022AA38 /* game2.py */,
+				DD77B11823229FC00022AA38 /* game3.py */,
+				DD77B11A2322B16A0022AA38 /* gametxt.py */,
+				DD79BD9B22CFC4C100646B57 /* greaterbtw2.py */,
+				DD79BD9C22CFC62C00646B57 /* grt3no.py */,
+				DD8695FA23008543007CC65F /* harshbdy.py */,
+				DD76D304230B08A000D8CCF6 /* hcker1.py */,
+				DD96E78023145FAF00C6AFE0 /* hckerseries.py */,
+				DD6DE547230C7A59003D0B24 /* hckr2gcd.py */,
+				DD380686230C6C0F00CD4F50 /* hckr2sallu.py */,
+				DDA35834230DAD6900A90887 /* hckr3tri.py */,
+				DD0B351323172C2200117645 /* hckrarr1.py */,
+				DDDA166E2321A2BC00089B6E /* hckrprintbinocthex.py */,
+				DD081D23231AEDD900044860 /* hckrpy.py */,
+				DD8A6DC423159C0F0039E2BB /* hckrvalid.py */,
+				DD86C22522D3B08E001EA83B /* heartptrn.py */,
+				DD86C22622D3B3FF001EA83B /* hello.py */,
+				DD893672230A87E200BDB652 /* Imgprint.py */,
+				DD34B01322D245D7006E911A /* inher1.py */,
+				DD34B01422D24B4B006E911A /* inher2.py */,
+				DD081D24231AF72800044860 /* inputinlst.py */,
+				DD2368992301C96200302638 /* iteratemtd.py */,
+				DD34B01522D24C35006E911A /* leapyr.py */,
+				DD0B407023112C5C002C0B64 /* listintro1.py */,
+				DD081D25231AFA4100044860 /* min.py */,
+				DDE33B0A230C8478007B0B36 /* Modulus.py */,
+				DD77B1192322B1400022AA38 /* name.txt */,
+				DD5003C222DC16D500FBCB35 /* nitk.py */,
+				DD79BD9822CFC09E00646B57 /* palli.py */,
+				DDF9B92322E5932F0031F309 /* pass.py */,
+				DDD4DF0F22E35A1A00C0787E /* pattern1.py */,
+				DDD4DF1122E3628800C0787E /* pattern2.py */,
+				DDD4DF1222E3643400C0787E /* pattern3.py */,
+				DDD4DF1322E364F100C0787E /* pattern4.py */,
+				DD8E529F22E415C900BDFA1F /* pattern5.py */,
+				DD8E52A022E41E0100BDFA1F /* pattern6.py */,
+				DD8E52A122E4203A00BDFA1F /* pattern7.py */,
+				DD8E52A222E4208700BDFA1F /* pattern8.py */,
+				DD8E52A322E420B100BDFA1F /* pattern9.py */,
+				DD79BD9522CFB47B00646B57 /* per.py */,
+				DD79BD9E22CFC80000646B57 /* print1-10.py */,
+				DDE7E9EA23070E0400E66A0F /* prj1.py */,
+				DDE7E9EB23070FCD00E66A0F /* prj2.py */,
+				DDDA166C2321875500089B6E /* ptrnin2.py */,
+				DDEE5F3B2326B197002CA471 /* proj1.py */,
+				DDEE5F3D2326B3F2002CA471 /* setintro1.py */,
+				DDFD258C233E795D00AAF5B7 /* ptrnhckr1.py */,
+				DD0284EB233F54900033E581 /* pygame1.py */,
+				DD5A08DD2354B7C600E5F041 /* welcome.php */,
+				DD10F3222347A976009E2E9A /* aj1.html */,
+				DDEE5F3E2326BD31002CA471 /* setintro2.py */,
+				DDEE5F3F2326CB3C002CA471 /* union.py */,
+				DDEE5F402326CC46002CA471 /* intersectino.py */,
+				DDEE5F412326CD20002CA471 /* diffinset.py */,
+				DDEE5F422326CDF8002CA471 /* symdiffinset.py */,
+				DDEE5F432326DABE002CA471 /* test901.py */,
+				DDEE5F452326E47D002CA471 /* test902.py */,
+				DDEE5F462326F3D3002CA471 /* test1010.py */,
+				DDEE5F472326F87D002CA471 /* eval.py */,
+				DDAD29E9230989EA008B7D7F /* readintro.py */,
+				DDAD29EA23098B3A008B7D7F /* readlineintro.py */,
+				DDAD29EB23098CBB008B7D7F /* readlinesintro2.py */,
+				DDFF25EC232245F200528870 /* reuce.py */,
+				DD79BD9622CFB87300646B57 /* rev.py */,
+				DD77B11B2322C3DB0022AA38 /* Revbynumpy.py */,
+				DDBB85DA2322F7C100A56AFA /* floorceilandrint.py */,
+				DDBB85DB2322FA5400A56AFA /* dotnumpy.py */,
+				DDEE5F3C2326B2A4002CA471 /* gencodes.txt */,
+				DD75247E22ED749A008A889B /* rnd1.py */,
+				DD051FDA231FFBCA00E356C3 /* rndno.py */,
+				DDA3AA56230C061A00B6C9B4 /* sizeof.py */,
+				DD5F38C122D864D5000573BC /* sorting.py */,
+				DDC740DE230D88A2002890EA /* strconversion1.py */,
+				DDC740DF230D8F42002890EA /* struprtolprfun.py */,
+				DD0B407323114807002C0B64 /* substringmatch.py */,
+				DD79BD9922CFC10600646B57 /* swap.py */,
+				DDD948BD238704F6004F832D /* prmswp.py */,
+				DDAD29EF2309A9BE008B7D7F /* ter1.py */,
+				DDAD29F02309AA76008B7D7F /* ter2.py */,
+				DD5FFCA622E181A5005B9E80 /* test1.py */,
+				DDAD43F122E1E59B00E3B1A1 /* test2.py */,
+				DD0B407123112F81002C0B64 /* test101.py */,
+				DD0B407223113CED002C0B64 /* test102.py */,
+				DD4073952311BB54003769B5 /* test103.py */,
+				DD8A6DC52315A0A50039E2BB /* test201.py */,
+				DD0B35102316E6A300117645 /* test301.py */,
+				DD0B35112316EA3F00117645 /* test302.py */,
+				DD0B35122316EB4F00117645 /* test303.py */,
+				DDCB4FF0232C49CD001A506B /* sat4.py */,
+				DDCB4FF1232C55CB001A506B /* sat5.py */,
+				DD843259232E34380096DBA4 /* test1011.py */,
+				DDF955BD232EEB3800572C9E /* rexsplit.py */,
+				DD8938F3232FF4B80033F3E3 /* hckrtry.py */,
+				DDA5F4FD2333FDB9004028DD /* collectiondque.py */,
+				DDEE5F442326DF35002CA471 /* Setintro110.py */,
+				DD0B35142317433A00117645 /* test304.py */,
+				DD4047D12317C08400B2742C /* test305.py */,
+				DDE8817E2319770A00D270C8 /* test401.py */,
+				DDE8817F2319900C00D270C8 /* test402.py */,
+				DDA4A89C231CE72600396D2D /* test501.py */,
+				DD348675231D935C00E721C1 /* test601.py */,
+				DDDA166D23218B8800089B6E /* test701.py */,
+				DDDA166F2321AF0000089B6E /* test702.py */,
+				DDDA16702321C09600089B6E /* test703.py */,
+				DD77B11723229C100022AA38 /* test801.py */,
+				DD77B11D2322D0900022AA38 /* test803.py */,
+				DD893676230A8D9300BDB652 /* tkinterintro2.py */,
+				DD893675230A8CD700BDB652 /* Tkintro1.py */,
+				DDC740E1230D98BA002890EA /* uprtolpr.py */,
+				DDC740E0230D90A4002890EA /* uprtolprmid.py */,
+				DDEE5F482326FD46002CA471 /* caseuprtolwr.py */,
+				DDEE5F4923270003002CA471 /* capitilise.py */,
+				DD4073942311A947003769B5 /* war1.py */,
+				DDAD29ED23099742008B7D7F /* withfile.py */,
+				DDAD29EE230998C9008B7D7F /* withfile2.py */,
+				DD33220B230943F7006CDA02 /* writeintro1.py */,
+				DDAD29E8230987E9008B7D7F /* writelineintro.py */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		DD79BD8E22CFAFCE00646B57 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1020;
+			};
+			buildConfigurationList = DD79BD9122CFAFCE00646B57 /* Build configuration list for PBXProject "Anshulpy" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = DD79BD8D22CFAFCE00646B57;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		DD79BD9222CFAFCE00646B57 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		DD79BD9322CFAFCE00646B57 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DD79BD9122CFAFCE00646B57 /* Build configuration list for PBXProject "Anshulpy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD79BD9222CFAFCE00646B57 /* Debug */,
+				DD79BD9322CFAFCE00646B57 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DD79BD8E22CFAFCE00646B57 /* Project object */;
+}
